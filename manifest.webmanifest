@@ -1,0 +1,16 @@
+{
+  "name": "Kippenlogboek Oale Esch",
+  "short_name": "Kippen",
+  "description": "Eieren, voer, daglengte en gewicht van de kippen invoeren en vergelijken met de norm.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f3f2",
+  "theme_color": "#650500",
+  "lang": "nl",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
